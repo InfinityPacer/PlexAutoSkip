@@ -1,5 +1,5 @@
 **翻译声明**
-本文档由 ChatGPT4 翻译。如有疑问，请参考 [原始英文版本](https://github.com/mdhiggins/PlexAutoSkip)。
+- 本文档由 ChatGPT4 翻译。如有疑问，请参考 [原始英文版本](https://github.com/mdhiggins/PlexAutoSkip)。
 
 **特别感谢**
 - 感谢 [mdhiggins](https://github.com/mdhiggins) 提供的 PlexAutoSkip 项目，其为 Plex 用户提供了极大的便利。对他的创意和努力表示衷心的感谢。
