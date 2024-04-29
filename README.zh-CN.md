@@ -72,7 +72,7 @@ custom.json
 
 季节或集数应该包括或阻止。如果你没有Plex Pass或希望跳过更多内容区域，你也可以为媒体定义自定义跳过段落
 - 请参见https://github.com/mdhiggins/PlexAutoSkip/wiki/Configuration#configuration-options-for-customjson
-- 请参观https://github.com/mdhiggins/PlexAutoSkipCustomMarkers，这是一个虽小但希望不断增长的社区制作的自定义标记库
+- 请参见https://github.com/mdhiggins/PlexAutoSkipCustomMarkers ，这是一个虽小但希望不断增长的社区制作的自定义标记库
 
 Docker
 --------------
