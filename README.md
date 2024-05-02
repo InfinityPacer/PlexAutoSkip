@@ -21,7 +21,7 @@ https://forums.plex.tv/t/player-experience/857990
 - LAN会话（非远程），因为Plex的API不允许通过API进行远程会话的查找调整
 - “作为播放器广告” / 兼容Plex Companion的播放器
 
-请访问https://github.com/mdhiggins/PlexAutoSkip/wiki/Troubleshooting#notice 查看基于Plex Web的播放器的变更
+请访问https://github.com/InfinityPacer/PlexAutoSkip/wiki/Troubleshooting#notice 查看基于Plex Web的播放器的变更
 
 功能
 --------------
@@ -70,14 +70,14 @@ _当GDM未启用或功能不全时，脚本有回退方法_
 
 config.ini
 --------------
-- 请参见https://github.com/mdhiggins/PlexAutoSkip/wiki/Configuration#configuration-options-for-configini
+- 请参见https://github.com/InfinityPacer/PlexAutoSkip/wiki/Configuration#configuration-options-for-configini
 
 custom.json
 --------------
 可选的自定义参数，用于指定哪些电影、节目、
 
 季节或集数应该包括或阻止。如果你没有Plex Pass或希望跳过更多内容区域，你也可以为媒体定义自定义跳过段落
-- 请参见https://github.com/mdhiggins/PlexAutoSkip/wiki/Configuration#configuration-options-for-customjson
+- 请参见https://github.com/InfinityPacer/PlexAutoSkip/wiki/Configuration#configuration-options-for-customjson
 - 请参见https://github.com/mdhiggins/PlexAutoSkipCustomMarkers ，这是一个虽小但希望不断增长的社区制作的自定义标记库
 
 Docker
